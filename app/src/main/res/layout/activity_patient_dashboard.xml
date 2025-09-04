@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/background"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true">
+
+
+    <fragment
+        android:layout_marginTop="20dp"
+        android:id="@+id/nav_host_fragment_activity_patient_dashboard"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        app:defaultNavHost="true"
+        app:navGraph="@navigation/mobile_navigation" />
+    <me.ibrahimsn.lib.SmoothBottomBar
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:backgroundColor="@color/colorPrimary"
+        app:iconSize="28dp"
+        app:menu="@menu/bottom_nav_menu"/>
+
+</LinearLayout>

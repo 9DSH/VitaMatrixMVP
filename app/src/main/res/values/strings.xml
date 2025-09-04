@@ -1,0 +1,65 @@
+<resources>
+    <string name="Year">Y</string>
+    <string name="Month">M</string>
+    <string name="Day">D</string>
+
+    <string name="app_name">VitaMatrix</string>
+    <string name="title_activity_signup">Signup</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="welcome_dr">"Welcome Doctor"</string>
+    <string name="welcome_patient">"Welcome Patient"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="please_sign_up_to_continue">Please sign up to continue</string>
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="or_if_you_don_t_have_account_please_sign_up">or if you don\'t have account please sign up.</string>
+    <string name="or_if_you_have_account_please_sign_in">or if you have account please sign in.</string>
+    <string name="by_signing_in_you_accept_our_terms_and_conditions">By signing in, you accept our Terms and Conditions</string>
+    <string name="title_activity_dr_dashboard">DrDashboard</string>
+    <string name="program">Program</string>
+    <string name="title_activity_patient_dashboard">PatientDashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="supplement">Supplement</string>
+    <string name="chat_with_ai">Chat with AI</string>
+    <string name="workout">Workout</string>
+    <string name="questions">Questions</string>
+
+    <string name="gatt_service_name">BLE Gatt Service</string>
+    <string name="gatt_service_description">A background BLE GATT service</string>
+    <string name="gatt_service_running_notification">\"Managing BLE GATT service\"</string>
+    <string name="pair_the_ble_gatt_server_via_settings">Pair the ble-gatt-server via settings</string>
+
+
+
+    <string name="devices">Bluetooth LE Devices</string>
+
+    <string name="bluetooth_permission_title">Bluetooth permission</string>
+    <string name="bluetooth_permission_grant">Bluetooth permission is required by this App. Please grant in next dialog.</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission was permanently denied. You have to enable permission \"%s\" in App settings.</string>
+
+    <string name="location_permission_title">Location permission</string>
+    <string name="location_permission_grant">This app does not use location information, but scanning for Bluetooth LE devices requires this permission. Please grant in next dialog.</string>
+    <string name="location_permission_denied">As location permission has not been granted, this app cannot scan for Bluetooth LE devices.</string>
+
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+    <string name="emgCalibrationDescription">To calibrate the sensor, place your forearm on a table with a rolled-up towel for padding. Your hand should hang off the edge of the table with your palm facing down. With the opposite hand, press the "START" button. Then, slowly move your hand upward until you feel a gentle stretch. After that, return your hand to the starting position. Repeat this movement three times. Once completed, press the "FINISH" button with the opposite hand.</string>
+    <string name="workoutDesc1">1. Wear the wristband.\n2. Support the forearm on flat surface with the wrist over the edge.\n3. Use your opposite hand to gently move the injured wrist through flexion and extension within a pain-free range.\n4. Slowly bend the wrist upward and downward.</string>
+
+</resources>

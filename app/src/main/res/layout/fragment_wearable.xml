@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/wearableFragmentContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/background"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/instruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:text="First, pair your smartwatch with your phone via its dedicated application, then press the 'Connect' button."
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:padding="8dp" />
+
+        <!-- CONNECTION SECTION -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeWidth="0dp"
+            app:cardBackgroundColor="@android:color/transparent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center_horizontal"
+                android:background="@drawable/profile_card_background">
+
+                <!-- Title -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Smartwatch Connection"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_marginBottom="12dp"
+                    android:textColor="@android:color/black" />
+
+                <!-- Status and Toggle Row -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_marginBottom="12dp">
+
+                    <!-- Connection Status -->
+                    <TextView
+                        android:id="@+id/tvConnectionStatus"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Wearable Disconnected"
+                        android:textSize="16sp"
+                        android:textColor="@android:color/black"
+                        android:padding="8dp" />
+
+                    <!-- Bluetooth-style Toggle -->
+                    <com.google.android.material.switchmaterial.SwitchMaterial
+                        android:id="@+id/switchConnect"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="14sp"
+                        android:textColor="@android:color/black"
+                        app:thumbTint="@color/gray"
+                        app:trackTint="@color/questionsText" />
+                </LinearLayout>
+
+                <!-- Device Info Card -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp"
+                    app:strokeWidth="0dp"
+                    app:cardBackgroundColor="@color/background">
+
+                    <TextView
+                        android:id="@+id/tvDeviceInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Connected Device: -"
+                        android:textSize="16sp"
+                        android:textColor="@android:color/black"
+                        android:padding="12dp" />
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- METRICS SECTION -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="16dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardElevation="0dp"
+            app:strokeWidth="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:background="@drawable/profile_card_background">
+
+                <!-- Title + Refresh Icon -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Metrics"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:id="@+id/metricsTitle"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentTop="true" />
+
+                    <ImageButton
+                        android:id="@+id/btnRefresh"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="100dp"
+                        android:layout_toEndOf="@+id/metricsTitle"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+                        android:contentDescription="Refresh Metrics"
+                        android:padding="4dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/refresh"
+                        app:tint="@color/questionsText" />
+                </RelativeLayout>
+
+                <!-- Row 1: Steps, Heart Rate -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_marginBottom="12dp"
+                    android:baselineAligned="false">
+
+                    <!-- Steps -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center_horizontal">
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/white_circle_black_border"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvSteps"
+                                android:text="--"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimary"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:text="Steps"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="14sp"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- Heart Rate -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center_horizontal">
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/white_circle_black_border"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvHeartRate"
+                                android:text="--"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimary"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:text="BPM"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="14sp"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- Row 2: Calories, Blood Pressure -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_marginBottom="12dp">
+
+                    <!-- Calories -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center_horizontal">
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/white_circle_black_border"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvCalories"
+                                android:text="--"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimary"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:text="kcal"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="14sp"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- Blood Pressure -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center_horizontal">
+
+                        <LinearLayout
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/white_circle_black_border"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/tvBloodPressure"
+                                android:text="--/--"
+                                android:textSize="16sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimary"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:text="mmHg"
+                                android:textColor="@color/colorAccent"
+                                android:textSize="14sp"
+                                android:gravity="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <TextView
+            android:id="@+id/Metricinstruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AI leverages this data to provide more accurate answers regarding your personal health habits."
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:padding="8dp" />
+
+    </LinearLayout>
+</ScrollView>

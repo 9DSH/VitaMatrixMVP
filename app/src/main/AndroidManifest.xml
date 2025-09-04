@@ -1,0 +1,94 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.swings.vitamatrix">
+
+    <!-- Location & Bluetooth -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+
+    <!-- Sensors -->
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <!-- Foreground services -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+
+    <!-- Optional for Android 13+ notifications -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- Internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".main.BaseApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_icone_app"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App.Starting"
+        tools:targetApi="31">
+
+        <!-- 📱 Main activity -->
+        <activity
+            android:windowSoftInputMode="adjustResize|stateHidden"
+            android:name=".main.HomeDashboard"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 🧠 Health questionnaire activities -->
+        <activity
+            android:name=".questions.WizardActivity"
+            android:theme="@style/Theme.Chatgpt"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <activity
+            android:name=".questions.UpdateAnswersActivity"
+            android:theme="@style/Theme.Chatgpt"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 🖼 Image Picker -->
+        <activity
+            android:name="com.app.imagepickerlibrary.ui.activity.ImagePickerActivity"
+            android:theme="@style/SSImagePicker"
+            android:configChanges="orientation|screenSize" />
+
+        <!-- ⌚️ Wear OS - Watch launcher -->
+        <activity
+            android:name="com.swings.vitamatrix.device.WearMainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 🛰 Sensor sync service -->
+
+        <service
+            android:name="com.swings.vitamatrix.device.SensorService"
+            android:exported="true"
+            android:foregroundServiceType="connectedDevice|dataSync"
+            tools:ignore="ExtraText">
+            <intent-filter>
+                <action android:name="com.swings.vitamatrix.device.SensorService" />
+            </intent-filter>
+        </service>
+
+    </application>
+</manifest>

@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chatgpt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background, animated icon, and animation duration. -->
+        <item name="windowSplashScreenBackground">@color/background</item>
+
+        <!-- Use windowSplashScreenAnimatedIcon to add a drawable or an animated drawable. One of these is required. -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/vita_logo_smal</item>
+        <!-- Required for animated icons. -->
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+
+        <!-- Set the theme of the Activity that directly follows your splash screen. This is required. -->
+        <item name="postSplashScreenTheme">@style/Theme.Chatgpt</item>
+    </style>
+
+    <style name="Theme.Chatgpt" parent="Base.Theme.Chatgpt" />
+
+    <style name="Theme.Chatgpt.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Chatgpt.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Chatgpt.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

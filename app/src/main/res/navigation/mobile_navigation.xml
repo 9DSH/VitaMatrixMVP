@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_questions">
+
+
+    <fragment
+        android:id="@+id/navigation_questions"
+        android:name="com.swings.vitamatrix.main.HealthFragment"
+        android:label="@string/questions"
+        tools:layout="@layout/wizard_activity" />
+    <fragment
+        android:id="@+id/navigation_ai"
+        android:name="com.swings.vitamatrix.chat.MessageListFragment"
+        android:label="@string/chat_with_ai"
+        tools:layout="@layout/activity_message_list" />
+    <fragment
+        android:id="@+id/navigation_supplement"
+        android:name="com.swings.vitamatrix.main.ProfileFragment"
+        android:label="@string/supplement"
+        tools:layout="@layout/supplement_fragment" >
+
+        <!-- Update action to navigate to the unified wearable fragment -->
+        <action
+            android:id="@+id/action_profileFragment_to_wearableFragment"
+            app:destination="@id/navigation_wearable" />
+    </fragment>
+
+    <!-- Unified Wearable Fragment for connection + dashboard -->
+    <fragment
+        android:id="@+id/navigation_wearable"
+        android:name="com.swings.vitamatrix.device.WearableFragment"
+        android:label="Wearables"
+        tools:layout="@layout/fragment_wearable" />
+</navigation>

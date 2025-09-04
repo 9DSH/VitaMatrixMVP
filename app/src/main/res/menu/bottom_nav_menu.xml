@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_questions"
+        android:icon="@drawable/love"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_wearable"
+        android:icon="@drawable/watch_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_ai"
+        android:icon="@drawable/ai"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_supplement"
+        android:icon="@drawable/user"
+        android:title="" />
+
+
+</menu>

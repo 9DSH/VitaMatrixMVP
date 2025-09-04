@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="6dp">
+
+    <LinearLayout
+        android:background="@drawable/update_answer_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+        <TextView
+            android:text="Question"
+            android:id="@+id/number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/question"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/questionText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Multiple choice question"
+            style="@style/question"
+            android:layout_marginBottom="16dp" />
+        <LinearLayout
+            android:id="@+id/checkboxGroup"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chat.MessageListActivity"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+
+<!--    <com.google.android.material.appbar.AppBarLayout-->
+<!--        android:id="@+id/layout_group_chat"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:fitsSystemWindows="true"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintTop_toTopOf="parent">-->
+
+<!--        <androidx.appcompat.widget.Toolbar-->
+<!--            android:id="@+id/toolbar_gchannel"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="?attr/actionBarSize"-->
+<!--            android:theme="@style/Widget.AppCompat.Toolbar"-->
+<!--            app:popupTheme="@style/Theme.AppCompat.Light">-->
+
+<!--        </androidx.appcompat.widget.Toolbar>-->
+<!--    </com.google.android.material.appbar.AppBarLayout>-->
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/recycler"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"/>-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        <TextView
+            android:id="@+id/content"
+            style="@style/h1"
+            android:layout_margin="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+        <ProgressBar
+            android:visibility="invisible"
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <EditText
+            android:id="@+id/messageInput"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/rounded_rectangle"
+            android:hint="Additional description (optional)"
+            android:inputType="text"
+            android:maxLines="6"
+            tools:ignore="Autofill" />
+
+        <Button
+            android:text="Request for nutritional supplements"
+            android:id="@+id/send"
+            style="@style/WhiteButtonStyle"
+            android:layout_margin="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

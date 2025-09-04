@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- حالت غیرفعال (enable = false) -->
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/gray" />
+            <corners android:radius="8dp" /> <!-- گوشه‌های گرد -->
+        </shape>
+    </item>
+
+    <!-- حالت فعال (enable = true) -->
+    <item android:state_enabled="true">
+        <ripple android:color="?attr/colorControlHighlight"> <!-- رنگ ریپل -->
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/white" /> <!-- رنگ پس‌زمینه فعال -->
+                    <stroke android:color="@color/border" android:width="2dp" /> <!-- رنگ پس‌زمینه فعال -->
+                    <corners android:radius="8dp" /> <!-- گوشه‌های گرد -->
+                </shape>
+            </item>
+        </ripple>
+    </item>
+</selector>

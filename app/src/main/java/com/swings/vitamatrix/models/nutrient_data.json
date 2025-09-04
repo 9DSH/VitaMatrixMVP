@@ -1,0 +1,2152 @@
+[
+  {
+    "recommended_nutrients": {
+      "protein": "131g",
+      "carbs": "228g",
+      "fats": "52g",
+      "fiber": "35g"
+    },
+    "recommended_foods": [
+      "Sweet Potato",
+      "Eggs",
+      "Kale",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "126g",
+      "carbs": "224g",
+      "fats": "73g",
+      "fiber": "23g"
+    },
+    "recommended_foods": [
+      "Greek Yogurt",
+      "Almonds",
+      "Chicken Breast",
+      "Quinoa"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "132g",
+      "carbs": "245g",
+      "fats": "50g",
+      "fiber": "40g"
+    },
+    "recommended_foods": [
+      "Pumpkin Seeds",
+      "Oats",
+      "Black Beans",
+      "Broccoli"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "144g",
+      "carbs": "172g",
+      "fats": "41g",
+      "fiber": "37g"
+    },
+    "recommended_foods": [
+      "Broccoli",
+      "Chia Seeds",
+      "Greek Yogurt",
+      "Brown Rice"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "96g",
+      "carbs": "127g",
+      "fats": "55g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Oats",
+      "Cottage Cheese",
+      "Kale",
+      "Blueberries"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "89g",
+      "carbs": "247g",
+      "fats": "76g",
+      "fiber": "37g"
+    },
+    "recommended_foods": [
+      "Blueberries",
+      "Tofu",
+      "Eggs",
+      "Black Beans"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "155g",
+      "carbs": "127g",
+      "fats": "57g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Black Beans",
+      "Brown Rice",
+      "Blueberries"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "131g",
+      "carbs": "222g",
+      "fats": "67g",
+      "fiber": "21g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Almonds",
+      "Eggs",
+      "Greek Yogurt"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "118g",
+      "carbs": "146g",
+      "fats": "70g",
+      "fiber": "39g"
+    },
+    "recommended_foods": [
+      "Sweet Potato",
+      "Chicken Breast",
+      "Cottage Cheese",
+      "Oats"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "90g",
+      "carbs": "133g",
+      "fats": "39g",
+      "fiber": "24g"
+    },
+    "recommended_foods": [
+      "Cottage Cheese",
+      "Chia Seeds",
+      "Tofu",
+      "Chicken Breast"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "134g",
+      "carbs": "196g",
+      "fats": "61g",
+      "fiber": "21g"
+    },
+    "recommended_foods": [
+      "Kale",
+      "Tofu",
+      "Quinoa",
+      "Eggs"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "90g",
+      "carbs": "162g",
+      "fats": "80g",
+      "fiber": "33g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Greek Yogurt",
+      "Kale",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "158g",
+      "carbs": "116g",
+      "fats": "42g",
+      "fiber": "30g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Avocado",
+      "Broccoli",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "124g",
+      "carbs": "299g",
+      "fats": "40g",
+      "fiber": "33g"
+    },
+    "recommended_foods": [
+      "Oats",
+      "Spinach",
+      "Chicken Breast",
+      "Lentils"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "107g",
+      "carbs": "261g",
+      "fats": "35g",
+      "fiber": "31g"
+    },
+    "recommended_foods": [
+      "Quinoa",
+      "Blueberries",
+      "Pumpkin Seeds",
+      "Eggs"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "92g",
+      "carbs": "229g",
+      "fats": "54g",
+      "fiber": "23g"
+    },
+    "recommended_foods": [
+      "Quinoa",
+      "Eggs",
+      "Sweet Potato",
+      "Lentils"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "90g",
+      "carbs": "292g",
+      "fats": "31g",
+      "fiber": "35g"
+    },
+    "recommended_foods": [
+      "Greek Yogurt",
+      "Cottage Cheese",
+      "Avocado",
+      "Oats"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "128g",
+      "carbs": "217g",
+      "fats": "30g",
+      "fiber": "22g"
+    },
+    "recommended_foods": [
+      "Pumpkin Seeds",
+      "Salmon",
+      "Cottage Cheese",
+      "Broccoli"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "117g",
+      "carbs": "220g",
+      "fats": "46g",
+      "fiber": "25g"
+    },
+    "recommended_foods": [
+      "Salmon",
+      "Lentils",
+      "Quinoa",
+      "Blueberries"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "146g",
+      "carbs": "267g",
+      "fats": "79g",
+      "fiber": "38g"
+    },
+    "recommended_foods": [
+      "Lentils",
+      "Oats",
+      "Salmon",
+      "Tofu"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "114g",
+      "carbs": "186g",
+      "fats": "47g",
+      "fiber": "28g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Avocado",
+      "Greek Yogurt",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "104g",
+      "carbs": "201g",
+      "fats": "48g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Blueberries",
+      "Tofu",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "118g",
+      "carbs": "237g",
+      "fats": "80g",
+      "fiber": "35g"
+    },
+    "recommended_foods": [
+      "Brown Rice",
+      "Tofu",
+      "Lentils",
+      "Salmon"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "113g",
+      "carbs": "266g",
+      "fats": "30g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Tofu",
+      "Sweet Potato",
+      "Kale",
+      "Blueberries"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "148g",
+      "carbs": "132g",
+      "fats": "33g",
+      "fiber": "22g"
+    },
+    "recommended_foods": [
+      "Broccoli",
+      "Kale",
+      "Pumpkin Seeds",
+      "Blueberries"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "132g",
+      "carbs": "227g",
+      "fats": "39g",
+      "fiber": "27g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Almonds",
+      "Lentils",
+      "Cottage Cheese"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "148g",
+      "carbs": "154g",
+      "fats": "39g",
+      "fiber": "40g"
+    },
+    "recommended_foods": [
+      "Almonds",
+      "Broccoli",
+      "Tofu",
+      "Oats"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "157g",
+      "carbs": "233g",
+      "fats": "67g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Avocado",
+      "Almonds",
+      "Oats",
+      "Broccoli"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "160g",
+      "carbs": "165g",
+      "fats": "33g",
+      "fiber": "25g"
+    },
+    "recommended_foods": [
+      "Blueberries",
+      "Black Beans",
+      "Broccoli",
+      "Eggs"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "117g",
+      "carbs": "283g",
+      "fats": "30g",
+      "fiber": "31g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Black Beans",
+      "Brown Rice",
+      "Sweet Potato"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "146g",
+      "carbs": "219g",
+      "fats": "62g",
+      "fiber": "28g"
+    },
+    "recommended_foods": [
+      "Cottage Cheese",
+      "Chicken Breast",
+      "Almonds",
+      "Lentils"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "123g",
+      "carbs": "197g",
+      "fats": "35g",
+      "fiber": "22g"
+    },
+    "recommended_foods": [
+      "Eggs",
+      "Salmon",
+      "Lentils",
+      "Avocado"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "128g",
+      "carbs": "244g",
+      "fats": "35g",
+      "fiber": "38g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Pumpkin Seeds",
+      "Cottage Cheese",
+      "Salmon"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "110g",
+      "carbs": "188g",
+      "fats": "70g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Sweet Potato",
+      "Broccoli",
+      "Tofu",
+      "Pumpkin Seeds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "94g",
+      "carbs": "278g",
+      "fats": "68g",
+      "fiber": "29g"
+    },
+    "recommended_foods": [
+      "Chicken Breast",
+      "Oats",
+      "Lentils",
+      "Sweet Potato"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "102g",
+      "carbs": "262g",
+      "fats": "40g",
+      "fiber": "26g"
+    },
+    "recommended_foods": [
+      "Almonds",
+      "Salmon",
+      "Tofu",
+      "Broccoli"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "131g",
+      "carbs": "272g",
+      "fats": "74g",
+      "fiber": "33g"
+    },
+    "recommended_foods": [
+      "Greek Yogurt",
+      "Pumpkin Seeds",
+      "Salmon",
+      "Chia Seeds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "140g",
+      "carbs": "284g",
+      "fats": "78g",
+      "fiber": "32g"
+    },
+    "recommended_foods": [
+      "Black Beans",
+      "Eggs",
+      "Almonds",
+      "Salmon"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "80g",
+      "carbs": "227g",
+      "fats": "39g",
+      "fiber": "30g"
+    },
+    "recommended_foods": [
+      "Chicken Breast",
+      "Kale",
+      "Brown Rice",
+      "Eggs"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "97g",
+      "carbs": "279g",
+      "fats": "46g",
+      "fiber": "31g"
+    },
+    "recommended_foods": [
+      "Quinoa",
+      "Greek Yogurt",
+      "Chia Seeds",
+      "Cottage Cheese"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "124g",
+      "carbs": "119g",
+      "fats": "47g",
+      "fiber": "28g"
+    },
+    "recommended_foods": [
+      "Oats",
+      "Quinoa",
+      "Greek Yogurt",
+      "Brown Rice"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "133g",
+      "carbs": "141g",
+      "fats": "62g",
+      "fiber": "23g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Almonds",
+      "Oats",
+      "Brown Rice"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "154g",
+      "carbs": "203g",
+      "fats": "73g",
+      "fiber": "25g"
+    },
+    "recommended_foods": [
+      "Almonds",
+      "Black Beans",
+      "Greek Yogurt",
+      "Lentils"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Vitamin D3 + K2",
+        "dosage": "5000 IU + 100mcg daily",
+        "purpose": "Enhances calcium absorption and bone strength"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "90g",
+      "carbs": "111g",
+      "fats": "31g",
+      "fiber": "38g"
+    },
+    "recommended_foods": [
+      "Black Beans",
+      "Sweet Potato",
+      "Eggs",
+      "Tofu"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "103g",
+      "carbs": "186g",
+      "fats": "51g",
+      "fiber": "30g"
+    },
+    "recommended_foods": [
+      "Pumpkin Seeds",
+      "Quinoa",
+      "Broccoli",
+      "Sweet Potato"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "111g",
+      "carbs": "171g",
+      "fats": "37g",
+      "fiber": "39g"
+    },
+    "recommended_foods": [
+      "Kale",
+      "Avocado",
+      "Blueberries",
+      "Salmon"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "93g",
+      "carbs": "134g",
+      "fats": "69g",
+      "fiber": "38g"
+    },
+    "recommended_foods": [
+      "Avocado",
+      "Pumpkin Seeds",
+      "Kale",
+      "Salmon"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Whey Protein",
+        "dosage": "30g post-workout",
+        "purpose": "Supports muscle recovery"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Aspirin",
+        "dosage": "81mg daily",
+        "purpose": "Supports cardiovascular health"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "119g",
+      "carbs": "228g",
+      "fats": "45g",
+      "fiber": "27g"
+    },
+    "recommended_foods": [
+      "Avocado",
+      "Chia Seeds",
+      "Pumpkin Seeds",
+      "Oats"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Omega-3 Fish Oil",
+        "dosage": "2000mg daily",
+        "purpose": "Reduces inflammation and improves joint health"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg twice daily",
+        "purpose": "Supports blood sugar regulation"
+      },
+      {
+        "name": "NSAIDs (e.g., Ibuprofen)",
+        "dosage": "200mg as needed",
+        "purpose": "Reduces pain and inflammation from muscle overuse"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "145g",
+      "carbs": "291g",
+      "fats": "66g",
+      "fiber": "34g"
+    },
+    "recommended_foods": [
+      "Greek Yogurt",
+      "Almonds",
+      "Spinach",
+      "Black Beans"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      },
+      {
+        "name": "Zinc",
+        "dosage": "25mg daily",
+        "purpose": "Supports immune health and recovery"
+      },
+      {
+        "name": "Probiotics",
+        "dosage": "1 capsule daily",
+        "purpose": "Supports gut health and digestion"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      },
+      {
+        "name": "Levothyroxine",
+        "dosage": "50mcg daily",
+        "purpose": "Supports thyroid hormone balance"
+      }
+    ]
+  },
+  {
+    "recommended_nutrients": {
+      "protein": "139g",
+      "carbs": "108g",
+      "fats": "33g",
+      "fiber": "27g"
+    },
+    "recommended_foods": [
+      "Chia Seeds",
+      "Broccoli",
+      "Quinoa",
+      "Almonds"
+    ],
+    "recommended_supplements": [
+      {
+        "name": "Creatine Monohydrate",
+        "dosage": "5g daily",
+        "purpose": "Improves strength and performance"
+      },
+      {
+        "name": "Collagen Peptides",
+        "dosage": "10g daily",
+        "purpose": "Supports skin, hair, and joint health"
+      },
+      {
+        "name": "Magnesium",
+        "dosage": "400mg daily",
+        "purpose": "Supports muscle and nerve function"
+      }
+    ],
+    "recommended_medications": [
+      {
+        "name": "Atorvastatin",
+        "dosage": "10mg daily",
+        "purpose": "Helps lower cholesterol levels"
+      },
+      {
+        "name": "Glucosamine & Chondroitin",
+        "dosage": "1500mg + 1200mg daily",
+        "purpose": "Helps maintain joint cartilage and reduce arthritis symptoms"
+      }
+    ]
+  }
+]

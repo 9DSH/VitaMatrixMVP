@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="descriptions">#a6b8c3</color>
+    <color name="colorPrimary">#ff851b</color>
+    <color name="colorSecondary">#BE959F</color>
+    <color name="colorAccent">#ffa62e</color>
+    <color name="background">#EAE5DF</color>
+    <color name="colorPrimaryDark">#E91E63</color>
+
+
+    <color name="border">#fea733</color>
+    <color name="questionsText">#707070</color>
+
+
+
+
+    <color name="toast_hint_color">#3F51B5</color>
+    <color name="toast_success_color">#388E3C</color>
+    <color name="toast_warn_color">#FFA900</color>
+    <color name="toast_error_color">#900000</color>
+    <color name="gray">#C1C1C1</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_light">#7dd8ff</color>
+    <color name="green">#00FF0A</color>
+    <color name="yellow">#FFff00</color>
+    <color name="orange">#FF7600</color>
+    <color name="greenDark">#005D04</color>
+    <color name="red">#ff0000</color>
+</resources>
